@@ -1,4 +1,4 @@
-# sales_EDA_project
+# SQL-Based Exploratory Data Analysis on Sales Data
 
 
 ## 📌 Executive Summary
